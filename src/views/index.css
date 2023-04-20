@@ -1,0 +1,29 @@
+body{
+    padding: 50px;
+    background-color: palegreen;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(14, 13, 13);
+  
+}
+
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: red;
+  }
+
+  input {
+    width: 30%;
+  }
+
+
